@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "431537366078",
+    "project_id": "social-media-app-8ba42",
+    "storage_bucket": "social-media-app-8ba42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431537366078:android:6693244e28a025d69c1d6f",
+        "android_client_info": {
+          "package_name": "com.rateme.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431537366078-j7icvapnjv7bjovu8kuf9dtnb1pngj5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rateme.instaclone",
+            "certificate_hash": "c6f285e55d10fafe64907cefdeaf1bde80d3d71c"
+          }
+        },
+        {
+          "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnXU2KO_kUGDgZfQ1wBaLGDyYgNweFRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431537366078-atmqqgodqgf41svr793jt15uferlehc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikkyboy.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431537366078:android:d76cec892102da7c9c1d6f",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431537366078-6nkds0oq2uemojno3t769cl2qp2j9p2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_app",
+            "certificate_hash": "c6f285e55d10fafe64907cefdeaf1bde80d3d71c"
+          }
+        },
+        {
+          "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnXU2KO_kUGDgZfQ1wBaLGDyYgNweFRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431537366078-atmqqgodqgf41svr793jt15uferlehc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikkyboy.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431537366078:android:8ee032a00ef8ea219c1d6f",
+        "android_client_info": {
+          "package_name": "com.example.social_media_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431537366078-3dv3o2kmvqr4qkpvul1saqcmua2cvbnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_apps",
+            "certificate_hash": "c6f285e55d10fafe64907cefdeaf1bde80d3d71c"
+          }
+        },
+        {
+          "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnXU2KO_kUGDgZfQ1wBaLGDyYgNweFRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431537366078-6jr0bcb8jqrgvh73ermjrpq898m1v9qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431537366078-atmqqgodqgf41svr793jt15uferlehc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikkyboy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

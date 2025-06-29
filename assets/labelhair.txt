@@ -1,0 +1,8 @@
+bald
+braids
+curly
+dreadlocks
+kinky
+short
+straight
+wavy

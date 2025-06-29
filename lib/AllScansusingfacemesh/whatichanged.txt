@@ -1,0 +1,2 @@
+1. in androidxml, i changed id to rateme
+change to gogoel json in app

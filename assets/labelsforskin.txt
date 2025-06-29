@@ -1,0 +1,3 @@
+0 no ance
+1 med
+2 a lot
